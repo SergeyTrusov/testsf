@@ -1,6 +1,7 @@
 @isTest
 public class SampleDeployClass {
 
+    // Test
     public static testmethod void t1() {
         helloMethod();
 
@@ -19,4 +20,4 @@ public class SampleDeployClass {
     public static void helloMethod() {
         System.debug('Hello World');
     }
-}
+;;;;;;;
